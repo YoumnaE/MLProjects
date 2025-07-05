@@ -5,7 +5,7 @@ This project predicts whether a passenger survived the Titanic disaster using a 
 
 ## Dataset
 - **Name**: Titanic survival data
-- **Source**:
+- **Source**: [Titanic Survival Data](Titanic%20survival%20data.csv)
 - **Description**: Contains data for 418 passengers
 
 ## Objective
