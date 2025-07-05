@@ -5,7 +5,7 @@ This project recommends similar books based on the title input by the user. It u
 
 ## Dataset
 - **Name**: books recommendations
-- **Source**: [Book Recommendations Dataset](BookRecommendationSystem/booksrecommendations.csv)
+- **Source**: [Book Recommendations Dataset](booksrecommendations.csv)
 - **Description**: Contains metadata for 45641 books including title, authors, and ratings.
 
 ## Objective
