@@ -5,7 +5,7 @@ This project classifies whether a tumor is benign or malignant using a Support V
 
 ## Dataset
 - **Name**: breast-cancer (diagnostic) dataset
-- **Source**:
+[Breast-Cancer (Diagnosis)](breast-cancer%20(diagnostic)%20dataset.csv)
 - **Description**: 30 features describing characteristics of cell nuclei in breast tumor biopsies.
 
 ## Objective
