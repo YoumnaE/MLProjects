@@ -1,6 +1,6 @@
 # ML Projects by Youmna Elsayed
 
-A collection of beginner-friendly machine learning projects built using Google Colab and Scikit-learn.
+A collection of machine learning projects built using Google Colab and Scikit-learn.
 
 ## Projects
 1. **Book Recommendation System** – [View Notebook](BookRecommendationSystem/BookRecommendationSystem.ipynb)
